@@ -1,3 +1,4 @@
+![logo](https://github.com/RaghuChauhan1999/RaghuChauhan1999/blob/main/github_banner.jpeg)
 <h1 align="center">Hi 👋, I'm Raghu Chauhan</h1>
 <h3 align="center">Java Developer | Spring Boot | MySQL | REST APIs | Backend Development</h3>
 
